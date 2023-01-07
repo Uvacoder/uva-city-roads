@@ -34,8 +34,8 @@
     "vue-template-compiler": "^2.6.11"
   },
   "engines": {
-    "node": ">= 6.0.0",
-    "npm": ">= 3.0.0"
+    "node": "latest",
+    "npm": "latest"
   },
   "browserslist": [
     "> 1%",
