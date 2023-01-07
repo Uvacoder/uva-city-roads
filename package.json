@@ -34,7 +34,7 @@
     "vue-template-compiler": "^2.6.11"
   },
   "engines": {
-    "node": "latest",
+    "node": "18.x",
     "npm": "latest"
   },
   "browserslist": [
